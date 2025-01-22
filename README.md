@@ -139,9 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 🙌 **Acknowledgments**
 
 This project was developed by:  
-- Oliver Gray  
-- Agam Sood  
-- Xinyu Qian  
+
 - Arthur Guillaume  
 
 Inspired by works in crowd analysis and deep learning. Special thanks to the authors of [Yos+14], [Wan+15], [Zha+16], and [Din+18].
