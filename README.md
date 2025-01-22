@@ -118,7 +118,7 @@ Key highlights:
   - Predicts 19 images per second, constrained by hardware.  
 
 <p>
-  <img src="assets/img/trainvstest.png" alias="resutl bei">
+  <img src="assets/img/trainvstest.jpg" alias="resutl bei">
 </p>
 ---
 
