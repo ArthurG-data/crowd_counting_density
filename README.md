@@ -1,4 +1,8 @@
 
+<p>
+  <img src="assets/img/density_banner.webp" alias="banner">
+</p>
+
 # **Density Map Method for Crowd Counting** 📊
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
